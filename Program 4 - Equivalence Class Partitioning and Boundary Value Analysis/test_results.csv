@@ -1,0 +1,9 @@
+Input Data;Result;Expected Result;Is result the same
+0;The factorial is 1;1;True
+1;The factorial is 1;1;True
+4;The factorial is 24;24;True
+-1;Invalid Input: integer must be non-negative;Invalid;True
+2.4;Invalid Input: not an integer;Invalid;True
+four;Invalid Input: not an integer;Invalid;True
+ ;Invalid Input: incorrect number of inputs;Invalid;True
+2 5;Invalid Input: incorrect number of inputs;Invalid;True

@@ -15,7 +15,6 @@ def read_test_cases_from_csv(file_path):
 def compare_results(from_test, from_set):
     return from_set in from_test
 
-
 test_cases, test_results = read_test_cases_from_csv("test_cases.csv")
 
 results = []

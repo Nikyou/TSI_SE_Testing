@@ -1,0 +1,13 @@
+2 3 4 5,Invalid
+Three four five,Invalid
+0 4 5,Invalid
+3 0 5,Invalid
+3 4 0,Invalid
+1 4 5,Invalid
+5 4 1,Invalid
+4 5 1,Invalid
+2 2 2,Equilateral
+3 3 4,Isosceles
+4 3 3,Isosceles
+3 4 3,Isosceles
+3 4 5,Scalene
